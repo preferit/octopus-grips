@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/",
+    "title": "Home",
+    "icon": "home"
+  },
+  {
+    "path": "/about",
+    "title": "About us",
+    "icon": "about"
+  },
+  {
+    "path": "/products",
+    "title": "Products",
+    "icon": "products"
+  },
+  {
+    "path": "/contact",
+    "title": "Contact us",
+    "icon": "contact"
+  },
+  {
+    "path": "/cart",
+    "title": "Shopping cart",
+    "icon": "cart"
+  }
+]

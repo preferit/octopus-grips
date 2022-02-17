@@ -1,0 +1,1 @@
+export { StyledProductContainer } from './StyledProductContainer'

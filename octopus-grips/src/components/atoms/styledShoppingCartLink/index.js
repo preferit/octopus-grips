@@ -1,0 +1,1 @@
+export { StyledShoppingCartLink } from './StyledShoppingCartLink'

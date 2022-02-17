@@ -1,0 +1,1 @@
+export { AppStyle } from './AppStyle'

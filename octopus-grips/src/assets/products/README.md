@@ -1,0 +1,1 @@
+The products.json should be read from a database not the file, so in future remove this

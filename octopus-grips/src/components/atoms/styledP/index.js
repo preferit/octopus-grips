@@ -1,0 +1,1 @@
+export { StyledP } from './StyledP'

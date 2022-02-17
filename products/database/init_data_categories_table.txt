@@ -1,0 +1,3 @@
+INSERT INTO `categories` (`id`, `name`, `description`, `created`, `modified`) VALUES
+(1, 'Grips', 'Anything related to grips.', '2020-01-01 00:00:01', '2020-01-01 00:00:02'),
+(2, 'Accessories', 'Anything related to accessories, such as clothing and accessories.', '2020-01-01 00:00:01', '2020-01-01 00:00:02');

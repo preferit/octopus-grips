@@ -1,0 +1,16 @@
+[
+    {
+        "price": "100",
+        "title": "Octopus type I",
+        "description": "Grips short",
+        "image": "for now text",
+        "id": "1"
+    },
+    {
+        "price": "150",
+        "title": "Octopus type II",
+        "description": "Grips long",
+        "image": "for now text",
+        "id": "2"
+    }
+]
